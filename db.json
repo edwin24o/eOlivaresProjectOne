@@ -1,0 +1,65 @@
+{
+    "rankPromote": "first grade",
+    "homeBase": "Tokyo",
+    "formed": 2018,
+    "secretBase": "Jujutsu High",
+    "active": true,
+    "members": [
+        {
+            "name": "Yuji Itadori",
+            "age": 15,
+            "secretPotential": "Sukuna's Vessel",
+            "powers": [
+                "Poison resistance",
+                "Superhuman reflexes",
+                "Superhuman strength",
+                "Black Flash"
+            ]
+        },
+        {
+            "name": "Nobara Kugisaki",
+            "age": 16,
+            "secretPotential": "Voodo Manipulation",
+            "powers": [
+                "Staw doll tecniques",
+                "Able to injure with out physical contact",
+                "High battle IQ"
+            ]
+        },
+        {
+            "name": "Megumi Fushiguro",
+            "age": 16,
+            "secretPotential": "Zenin Bloodline",
+            "powers": [
+                "Shadow manipulation",
+                "High Curse energy",
+                "Teleportation",
+                "Summons and commands curses",
+                "Multiple curses at his disposole"
+
+            ]
+        },
+        { 
+                "name": "Maki Zenin",
+                   "age": 16,
+                "secretPotential": "Zenin Bloodline",
+               "powers": [
+                "Superhuman reflexes",
+                "Superhuman strength",
+                "High battle IQ",
+                "Heavenly restriction"
+          
+        ]},
+        { 
+                "name": "Panda",
+                   "age": 16,
+                "secretPotential": "Cursed Corpse",
+               "powers": [
+                "3 divided souls",
+                "Poison resistance",
+                "3 different life forms in one",
+                "Stro"
+          
+        ]}
+    ]
+}
